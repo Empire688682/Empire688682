@@ -1,7 +1,7 @@
 <div>
   <a href="https://jayempire.vercel.app/" target="_blank">
     <h1><a href="https://jayempire.vercel.app/" target="_blank">
-    ❤️️ Visit My Beautiful Portfolio ❤️️
+    ❤️️ My Simple Portfolio ❤️️
 </a></h1>
 </a>
 <br />
