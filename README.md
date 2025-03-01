@@ -27,7 +27,7 @@ I'm a passionate **Full-Stack Developer** with experience in building web applic
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juwon-asehinde-73b04b268/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 
 🚀 **Let's Build Something Awesome Together!** 🚀  
