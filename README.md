@@ -22,7 +22,7 @@ I'm a passionate **Full-Stack Developer** with experience in building web applic
 ---
 
 ## 📊 GitHub Stats  
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayEmpire&show_icons=true&theme=radical)    
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empire688682&show_icons=true&theme=radical)    
 
 ---
 
