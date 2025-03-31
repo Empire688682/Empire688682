@@ -30,4 +30,4 @@ I'm a passionate **Full-Stack Developer** with experience in building web applic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juwon-asehinde-73b04b268/)  
 [![](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AsehindeJwon)  
 
-🚀 **Let's Build Something Awesome Together!** 🚀  
+🚀 **Hey let's Build Something Awesome Tgether!** 🚀  
