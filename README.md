@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** with experience in building web applications, e-commerce platforms, and innovative projects like **review sentiment analysis apps**, **idea joter** and **live score apps**. Always eager to learn and collaborate on exciting projects!
+I'm a passionate **Full-Stack Developer** with experience in building web applications, e-commerce platforms, and innovative projects like **review sentiment analysis apps**, **idea joter**, **food delivery app** and **live score apps**. Always eager to learn and collaborate on exciting projects!
 
 ---
 
