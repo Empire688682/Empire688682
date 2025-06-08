@@ -1,4 +1,4 @@
-# Hi there!👋 Welcome to My GitHub
+# Hi there👋 Welcome to My GitHub
 
 ## ❤️️My Portfolios
 [![Simple Portfolio](https://img.shields.io/badge/My_Simple_Portfolio-FF4088?style=for-the-badge)](https://jayempire.vercel.app/)
