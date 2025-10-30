@@ -12,11 +12,12 @@ These days I’m focused on **React Native + Expo** for high-performance mobile 
 
 Projects I’ve built (or am building) include:
 
-- review sentiment analysis app  
+- Motiv / A nightlife and events ticketing platform designed for Lagos.  
 - idea-jotter / brainstorm board  
-- food-delivery platform  
-- live-score sports tracker  
-- **Chipsub** (utility payments) – now on web *and* React Native 📱
+- HallmarkStudio / an architecture-focused portfolio  
+- live-score sports tracker
+- Ayinla Film Locations / A location rental marketplace for filmmakers 
+- **Pax26** (utility payments) – now on web *and* app 📱
 
 Always learning, always up for a collaboration!
 
