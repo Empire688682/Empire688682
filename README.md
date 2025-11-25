@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀Hi About Me
 I’m a **Full-Stack & Mobile Developer** who loves turning ideas into smooth user experiences  
 These days I’m focused on **React Native + Expo** for high-performance mobile apps while still shipping robust web products with **Next.js**.
 
